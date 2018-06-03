@@ -1,0 +1,7 @@
+C:\Users\Zohrali\source\repos\29.05.2018\29.05.2018\bin\Debug\29.05.2018.exe.config
+C:\Users\Zohrali\source\repos\29.05.2018\29.05.2018\bin\Debug\29.05.2018.exe
+C:\Users\Zohrali\source\repos\29.05.2018\29.05.2018\bin\Debug\29.05.2018.pdb
+C:\Users\Zohrali\source\repos\29.05.2018\29.05.2018\obj\Debug\29.05.2018.csprojAssemblyReference.cache
+C:\Users\Zohrali\source\repos\29.05.2018\29.05.2018\obj\Debug\29.05.2018.csproj.CoreCompileInputs.cache
+C:\Users\Zohrali\source\repos\29.05.2018\29.05.2018\obj\Debug\29.05.2018.exe
+C:\Users\Zohrali\source\repos\29.05.2018\29.05.2018\obj\Debug\29.05.2018.pdb
